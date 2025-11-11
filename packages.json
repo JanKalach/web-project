@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/JanKalach/web-project"
     },
-    "private": true,
+    "private": false,
     "packages": {
         "leo/web-project": {
             "1.0.3": {
