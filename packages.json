@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://web-project.localhost/"
+        "url": "https://github.com/JanKalach/web-project"
     },
     "private": true,
     "packages": {
@@ -16,7 +16,7 @@
                 "name": "leo/web-project",
                 "version": "1.0.0",
                 "dist": {
-                    "url": "https://web-project.localhost/",
+                    "url": "https://github.com/JanKalach/web-project",
                     "type": "zip"
                 }
             }
