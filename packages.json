@@ -2,13 +2,25 @@
     "name": "leo/web-project",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/JanKalach/web-project.git"
+        "url": "https://web-project.localhost/"
     },
-    "private": true
+    "private": true,
+    "packages": {
+        "leo/web-project": {
+            "1.0.0": {
+                "name": "leo/web-project",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://web-project.localhost/",
+                    "type": "git"
+                }
+
+            }
+        }
+    }
 }

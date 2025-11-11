@@ -1,0 +1,14 @@
+{
+    "name": "leo/web-project",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "culprit",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+    }
+}
