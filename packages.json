@@ -1,6 +1,6 @@
 {
     "name": "leo/web-project",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,11 +12,11 @@
     "private": true,
     "packages": {
         "leo/web-project": {
-            "1.0.0": {
+            "1.0.3": {
                 "name": "leo/web-project",
-                "version": "1.0.0",
+                "version": "1.0.3",
                 "dist": {
-                    "url": "https://github.com/JanKalach/web-project",
+                    "url": "https://github.com/JanKalach/web-project/archive/refs/tags/1.0.3.zip",
                     "type": "zip"
                 }
             }
