@@ -15,8 +15,7 @@
                     "url": "https://github.com/JanKalach/web-project/archive/refs/tags/1.0.4.zip",
                     "type": "zip"
                 }
-            }
-        },
+            },
             "1.0.3": {
                 "name": "leo/web-project",
                 "version": "1.0.3",
