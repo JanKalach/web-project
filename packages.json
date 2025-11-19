@@ -12,6 +12,16 @@
     "private": false,
     "packages": {
         "leo/web-project": {
+            "1.0.4": {
+                "name": "leo/web-project",
+                "version": "1.0.4",
+                "dist": {
+                    "url": "https://github.com/JanKalach/web-project/releases/tag/1.0.4",
+                    "type": "git"
+                },
+                "type": "project"
+            }
+        },
             "1.0.3": {
                 "name": "leo/web-project",
                 "version": "1.0.3",
