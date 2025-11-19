@@ -17,7 +17,7 @@
                 "version": "1.0.4",
                 "dist": {
                     "url": "https://github.com/JanKalach/web-project/releases/tag/1.0.4",
-                    "type": "git"
+                    "type": "zip"
                 }
             }
         },
@@ -26,7 +26,7 @@
                 "version": "1.0.3",
                 "dist": {
                     "url": "https://github.com/JanKalach/web-project/releases/tag/1.0.3",
-                    "type": "git"
+                    "type": "zip"
                 }
             }
         }
